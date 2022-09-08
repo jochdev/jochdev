@@ -1,20 +1,57 @@
 ![Jochdev - Fullstack developer](https://raw.githubusercontent.com/jochdev/jochdev/master/assets/header.png)
 
-## Hola, soy jochdev
+### Hola 👋
 
-Creador de productos digitales desde el 2017, enfocado en brindar soluciones
-tecnológicas que le permitan a las personas y a las empresas que lo utilizan
-aumentar su productividad, satisfacción y felicidad, optimizando su tiempo y
-recursos en la transformación digital y desafíos tecnológicos a los que se
-enfrenten.
+Mi nombre es Jos&eacute; Heredia y soy desarrollador de software.
 
-<div>
-  <a href="https://twitter.com/jochdev"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jochdev?style=social"><a/>
-</div>
+Soy creador de productos digitales desde el 2017, enfocado en brindar soluciones
+tecnológicas a los desafíos tecnológicos que se presenten.
 
-# Contacto
+## Lo que estoy haciendo
 
-![](https://komarev.com/ghpvc/?username=jochdev)
+- 🔭 Actualmente estoy trabajando en [milpuntos.co](https://milpuntos.co)
+- 🌱 Actualmente estoy trabajando con:
+
+  [Vue](https://reactjs.org)
+  
+  [NuxtJS](https://nuxtjs.org/)
+  
+  [Tailwind](https://tailwindcss.com/)
+  
+  [Typescript](https://www.typescriptlang.org/)
+
+  [Ionic](https://ionicframework.com/)
+
+  [Firebase](https://firebase.google.com/)
+
+  [Codeigniter](https://codeigniter.com/)
+
+## Lenguajes, frameworks y herramientas
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="VueJS"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" alt="PWA"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ionic-team/ionic-framework/main/.github/assets/logo.png" alt="Ionic"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/web-components/web-components.png" alt="web-component"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySql"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase"></code>
+<!-- <code><img height="20" src="" alt="Ionic"></code> -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=jochdev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/jochdev/jochdev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jochdev&hide=java,html,tex&title_color=fff&text_color=9f9f9f&icon_color=79ff97&bg_color=151515&langs_count=3" />
+</a>
+<a href="https://github.com/jochdev/jochdev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jochdev&show_icons=true&line_height=27&count_private=true&title_color=fff&text_color=9f9f9f&icon_color=79ff97&bg_color=151515" alt="Noelia's GitHub Stats" />
+</a>
