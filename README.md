@@ -54,3 +54,8 @@ Creador de productos digitales desde el 2017, enfocado en brindar soluciones a l
 <a href="https://github.com/jochdev/jochdev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jochdev&show_icons=true&line_height=27&count_private=true&title_color=fff&text_color=9f9f9f&icon_color=79ff97&bg_color=151515" alt="Noelia's GitHub Stats" />
 </a>
+
+<!-- recursos
+
+https://gist.github.com/rxaviers/7360908 -- emojis
+ -->
