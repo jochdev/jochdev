@@ -52,7 +52,7 @@ Creador de productos digitales desde el 2017, enfocado en brindar soluciones a l
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jochdev&hide=java,html,tex&title_color=fff&text_color=9f9f9f&icon_color=79ff97&bg_color=151515&langs_count=3" />
 </a>
 <a href="https://github.com/jochdev/jochdev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jochdev&show_icons=true&line_height=27&count_private=true&title_color=fff&text_color=9f9f9f&icon_color=79ff97&bg_color=151515" alt="Noelia's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jochdev&show_icons=true&line_height=27&count_private=true&title_color=fff&text_color=9f9f9f&icon_color=79ff97&bg_color=151515" alt="Jochdev's GitHub Stats" />
 </a>
 
 <!-- recursos
