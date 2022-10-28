@@ -1,6 +1,6 @@
 ![Jochdev - Fullstack developer](https://raw.githubusercontent.com/jochdev/jochdev/master/assets/header.png)
 
-### Hola 👋 Mi nombre es Jos&eacute; Heredia y soy desarrollador de software.
+### Hola 👋 Mi nombre es Jos&eacute; Heredia y soy Creador de productos digitales | Desarrollador FullStack
 
 Creador de productos digitales desde el 2017, enfocado en brindar soluciones a los desafíos tecnológicos que se presenten.
 
