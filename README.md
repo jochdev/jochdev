@@ -1,10 +1,9 @@
-![Jochdev - Fullstack developer](https://raw.githubusercontent.com/jochdev/jochdev/master/assets/header.png)
+![Jochdev - Fullstack developer](https://raw.githubusercontent.com/jochdev/jochdev/master/assets/github-social.png)
 
+<!--
 ### Hola 👋 Mi nombre es Jos&eacute; Heredia y soy Creador de productos digitales | Desarrollador FullStack
 
 Creador de productos digitales desde el 2017, enfocado en brindar soluciones a los desafíos tecnológicos que se presenten.
-
-
 
 ## Lo que estoy haciendo
 
@@ -12,11 +11,11 @@ Creador de productos digitales desde el 2017, enfocado en brindar soluciones a l
 - 🌱 Actualmente estoy trabajando con:
 
   [Vue](https://reactjs.org)
-  
+
   [NuxtJS](https://nuxtjs.org/)
-  
+
   [Tailwind](https://tailwindcss.com/)
-  
+
   [Typescript](https://www.typescriptlang.org/)
 
   [Ionic](https://ionicframework.com/)
@@ -41,21 +40,4 @@ Creador de productos digitales desde el 2017, enfocado en brindar soluciones a l
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySql"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase"></code>
-<!-- <code><img height="20" src="" alt="Ionic"></code> -->
-
-
-
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/jochdev/jochdev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jochdev&hide=java,html,tex&title_color=fff&text_color=9f9f9f&icon_color=79ff97&bg_color=151515&langs_count=3" />
-</a>
-<a href="https://github.com/jochdev/jochdev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jochdev&show_icons=true&line_height=27&count_private=true&title_color=fff&text_color=9f9f9f&icon_color=79ff97&bg_color=151515" alt="Jochdev's GitHub Stats" />
-</a>
-
-<!-- recursos
-
-https://gist.github.com/rxaviers/7360908 -- emojis
  -->
