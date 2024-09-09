@@ -1,5 +1,5 @@
 ![Jochdev - Fullstack developer](https://raw.githubusercontent.com/jochdev/jochdev/master/assets/github-social-app-urban.png)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jochdev)] 
 <!--
 ### Hola 👋 Mi nombre es Jos&eacute; Heredia y soy Creador de productos digitales | Desarrollador FullStack
 
@@ -29,6 +29,8 @@ Creador de productos digitales desde el 2017, enfocado en brindar soluciones a l
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="VueJS"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" alt="PWA"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/ionic-team/ionic-framework/main/.github/assets/logo.png" alt="Ionic"></code>
+
+
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/web-components/web-components.png" alt="web-component"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
