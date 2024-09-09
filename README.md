@@ -1,5 +1,5 @@
 ![Jochdev - Fullstack developer](https://raw.githubusercontent.com/jochdev/jochdev/master/assets/github-social-app-urban.png)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jochdev&theme=dark)] 
+
 <!--
 ### Hola 👋 Mi nombre es Jos&eacute; Heredia y soy Creador de productos digitales | Desarrollador FullStack
 
