@@ -1,4 +1,4 @@
-![Jochdev - Fullstack developer](https://raw.githubusercontent.com/jochdev/jochdev/master/assets/github-social-app-urban.png)
+![Jochdev - Fullstack developer](https://raw.githubusercontent.com/jochdev/jochdev/master/assets/repo-social-preview-jochdev.png)
 
 <!--
 ### Hola 👋 Mi nombre es Jos&eacute; Heredia y soy Creador de productos digitales | Desarrollador FullStack
