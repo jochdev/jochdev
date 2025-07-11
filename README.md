@@ -22,7 +22,7 @@ En Jochdev, el 92% de nuestros clientes ven resultados tangibles en los primeros
 Recursos adicionales y servicios opcionales disponibles (emails, notificaciones, IA, etc.).
 
 ## Tecnologías
-Nuxt · Supabase · Netlify · Firebase · GitHub PRO
+Nuxt · Supabase · Netlify · Firebase 
 
 ## ¿Por qué elegir Jochdev?
 - Transparencia total y comunicación constante durante todo el proyecto.
